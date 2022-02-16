@@ -1,2 +1,2 @@
-# ErrorThrory
+# ErrorTheory
 重庆大学测绘工程专业误差理论与测量平差基础相关资料
